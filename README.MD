@@ -8,9 +8,13 @@
 端口扫描用的是:https://github.com/jboursiquot/portscan
 # 命令说明
 -h 指定目标
+
 -t 选择扫描或者命令执行  默认scan
+
 -p 设置扫描端口范围 默认4w到65535
+
 -c 需要执行的命令
+
 # 相关截图
 扫描
 ![scan](https://github.com/TRYblog/sunlogin_rce_/blob/main/scan.png "sacn")
