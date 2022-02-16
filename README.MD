@@ -24,9 +24,9 @@
 
 # 相关截图
 扫描
-![scan](https://github.com/TRYblog/sunlogin_rce_/blob/main/scan.png "sacn")
+![scan](scan.png "sacn")
 rce
-![rce](https://github.com/TRYblog/sunlogin_rce_/blob/main/exp.png "rce")
+![rce](exp.png "rce")
 
 # 时间
 20220216
